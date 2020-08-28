@@ -1,0 +1,10 @@
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\bin\Debug\hanjinHelper.exe.config
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\bin\Debug\hanjinHelper.exe
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\bin\Debug\hanjinHelper.pdb
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.Form1.resources
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.Properties.Resources.resources
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.exe
+C:\Users\Juan\Desktop\hanjinHelper\hanjinHelper\obj\Debug\hanjinHelper.pdb
